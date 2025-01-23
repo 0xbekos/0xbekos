@@ -12,8 +12,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 - I’m open to collaborating on beginner-friendly projects where I can learn and contribute.
 
 ## 📬 Get in Touch
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** 0xbekos@gmail.com
 
 ## 🛠️ Projects
 ### BEEUSTA: Bal gibi hizmet, arı gibi ustalar!
